@@ -18,7 +18,6 @@
 >
 > 2、定时任务的时间是UTC时间，跟中国时间有8小时的时差。
 
-
 ## 使用用法
 * 点击右上角 `Fork` 项目；
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
